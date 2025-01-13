@@ -2,17 +2,18 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: aliceblue;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #134379;
     color: white;
     text-align: center;
     padding: 20px 0;
 }
 
 footer {
-    background-color: #333;
+    background-color: #134379;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -37,19 +38,19 @@ td {
 }
 
 td:nth-child(1) {
-    background-color: #FF5733;
+    background-color: #d16a86;
 }
 
 td:nth-child(2) {
-    background-color: #33C3FF;
+    background-color: #134379;
 }
 
 td:nth-child(3) {
-    background-color: #28B463;
+    background-color: #bdd4ad;
 }
 
 td:nth-child(4) {
-    background-color: #FFC300;
+    background-color: #c53e66;
 }
 
 img {
